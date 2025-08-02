@@ -26,7 +26,7 @@ A fully responsive event-posting web application developed for **Midelands Kanna
 
 - Deployed on: **5th July 2025**
 - **Public launch scheduled for November 2025**
-- [🔗 Live Site (Staging)](https:midlandskannadigaruuk.my-board.org) 
+- [🔗 Live Site (Staging)](https://midlandskannadigaruuk.my-board.org) 
 
 ## 📸 Video Demo
 
